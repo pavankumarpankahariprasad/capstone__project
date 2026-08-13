@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+BeautifulSoup
+sqlite3
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+joblib
